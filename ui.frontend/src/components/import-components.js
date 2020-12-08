@@ -17,3 +17,4 @@
 import './Page';
 import './Text';
 import './BasicComponent';
+import './InterestingContent';
